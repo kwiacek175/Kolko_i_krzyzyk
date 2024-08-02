@@ -1,0 +1,3 @@
+C:/Users/Kacper/CLionProjects/Kolko_i_krzyzyk/cmake-build-debug/CMakeFiles/Kolko_i_krzyzyk.dir
+C:/Users/Kacper/CLionProjects/Kolko_i_krzyzyk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kacper/CLionProjects/Kolko_i_krzyzyk/cmake-build-debug/CMakeFiles/rebuild_cache.dir

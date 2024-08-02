@@ -1,0 +1,5 @@
+# ninja log v6
+10	1743	7443348873657261	CMakeFiles/Kolko_i_krzyzyk.dir/ai.cpp.obj	7e31de8dbad1fc61
+3	2030	7443348873586792	CMakeFiles/Kolko_i_krzyzyk.dir/main.cpp.obj	3f0f7226265b0545
+16	2287	7443348873707645	CMakeFiles/Kolko_i_krzyzyk.dir/board.cpp.obj	d4f1e5ee32b43857
+2287	2643	7443348896422514	Kolko_i_krzyzyk.exe	a4bc525b40b6b198
